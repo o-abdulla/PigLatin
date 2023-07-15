@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\osabd\\source\\repos\\PigLatin\\PigLatin\\PigLatin.csproj": {}
+    "/Users/osabdulla/Desktop/CSharpBootcamp/osabdulla_github/PigLatin/PigLatin/PigLatin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\osabd\\source\\repos\\PigLatin\\PigLatin\\PigLatin.csproj": {
+    "/Users/osabdulla/Desktop/CSharpBootcamp/osabdulla_github/PigLatin/PigLatin/PigLatin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osabd\\source\\repos\\PigLatin\\PigLatin\\PigLatin.csproj",
+        "projectUniqueName": "/Users/osabdulla/Desktop/CSharpBootcamp/osabdulla_github/PigLatin/PigLatin/PigLatin.csproj",
         "projectName": "PigLatin",
-        "projectPath": "C:\\Users\\osabd\\source\\repos\\PigLatin\\PigLatin\\PigLatin.csproj",
-        "packagesPath": "C:\\Users\\osabd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osabd\\source\\repos\\PigLatin\\PigLatin\\obj\\",
+        "projectPath": "/Users/osabdulla/Desktop/CSharpBootcamp/osabdulla_github/PigLatin/PigLatin/PigLatin.csproj",
+        "packagesPath": "/Users/osabdulla/.nuget/packages/",
+        "outputPath": "/Users/osabdulla/Desktop/CSharpBootcamp/osabdulla_github/PigLatin/PigLatin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\osabd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/osabdulla/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }
