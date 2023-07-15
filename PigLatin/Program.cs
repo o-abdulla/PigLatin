@@ -31,7 +31,7 @@ while (runProgram)
                 string half2 = input.Substring(ConsStart(input)).ToLower().Trim();
 
                 Console.WriteLine($"{half2}{half1}ay");
-                break;
+                
             }
 
 
